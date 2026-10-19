@@ -10,12 +10,6 @@ function Home() {
         primaryBtn='View My Projects'
         secondaryBtn="let's Work Together"
       />
-      <ImageAndText
-        heading='Madapaker piece of shit in the planet earth'
-        description='I specialize in Shopify theme development, custom storefront experiences, website optimization, and conversion rate optimization.'
-        primaryBtn='View My Projects'
-        secondaryBtn="let's Work Together"
-      />
     </>
   )
 }
